@@ -10,5 +10,6 @@ package swi_pokus1;
  * @author xkovacj1
  */
 public class NewClass2 {
-    
+    //jgjgj
+    //turt
 }
